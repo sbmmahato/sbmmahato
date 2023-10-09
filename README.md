@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham</h1>
-### Hi there 👋
+
 
 <!--
 **sbmmahato/sbmmahato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
