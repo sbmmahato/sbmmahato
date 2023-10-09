@@ -112,6 +112,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">You can contact me at sbmmahato@gmail.com</p>
+<p align="left">You can contact me at: sbmmahato@gmail.com</p>
 
 ###
