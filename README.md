@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<p align="left">You can contact me at: sbmmahato@gmail.com</p>
+<br>
+<h3><p align="left">You can contact me at: sbmmahato@gmail.com</p></h3>
 
 ###
